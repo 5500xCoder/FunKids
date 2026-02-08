@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:5173/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/about</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/ytchannels</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/projects</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/jobs</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/internship</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/services</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/store</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/careers</loc>
+  </url>
+  <url>
+    <loc>http://localhost:5173/contact</loc>
+  </url>
+</urlset>
